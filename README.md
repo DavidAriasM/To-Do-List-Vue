@@ -1,5 +1,8 @@
 # todolist-vue
 
+## Preview Project
+https://todolist-vue-vuetify.netlify.app/#/
+
 ## Project setup
 ```
 npm install
